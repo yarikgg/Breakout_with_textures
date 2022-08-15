@@ -1,0 +1,8 @@
+﻿  Скопировано файлов:         1.
+  Подпапка или файл D:\Git\Breakout\x64\Release Static\resources уже существует.
+  Не удается найти указанный файл.
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\MSBuild\Microsoft\VC\v150\Microsoft.CppCommon.targets(128,5): error MSB3073: выход из команды "copy /Y "D:\Git\Breakout\extlibs\bin\x64\openal32.dll"  "D:\Git\Breakout\x64\Release Static\openal32.dll"
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\MSBuild\Microsoft\VC\v150\Microsoft.CppCommon.targets(128,5): error MSB3073: mkdir "D:\Git\Breakout\x64\Release Static\resources"
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\MSBuild\Microsoft\VC\v150\Microsoft.CppCommon.targets(128,5): error MSB3073: copy /Y "D:\Git\Breakout\resources"  "D:\Git\Breakout\x64\Release Static\resources\"
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\MSBuild\Microsoft\VC\v150\Microsoft.CppCommon.targets(128,5): error MSB3073: 
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\MSBuild\Microsoft\VC\v150\Microsoft.CppCommon.targets(128,5): error MSB3073: :VCEnd" с кодом 1.
